@@ -1,0 +1,21 @@
+// de créer une page web (CV.html )
+
+
+cette poage doit contenir :
+
+Nom complet (Important)
+  Profil (Web developer )
+  description du profil
+
+Formation : 
+
+- form 1
+- form 2
+- form  3
+
+
+Compétence: 
+
+- comp 2
+- comp 3
+- ...
