@@ -19,3 +19,63 @@ Compétence:
 - comp 2
 - comp 3
 - ...
+
+
+
+
+
+
+
+
+
+Exercice Formulaire : 
+
+
+Nom Complet 
+Email
+Tel 
+motde passe 
+confirmer mot de passe 
+
+
+
+// Quiz 
+
+
+
+
+Q1 : Html stands For :   x 8
+    - Hypertext transfer protocol 
+    - CAscading style sheets 
+    - 
+    -
+
+
+
+4 question (choix unique ) 
+4 question (choix multiples)
+
+
+
+
+
+
+
+
+
+
+CamelCase 
+
+
+image alternative
+
+
+imageAlternative
+
+
+
+Kebab Case
+
+
+
+component-of-react
