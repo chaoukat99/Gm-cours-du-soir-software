@@ -1,0 +1,43 @@
+/* #mydiv{
+
+
+
+    color : red  ;
+} */
+
+/* div{
+    color: red ;
+} */
+p{
+    color: blue;
+}
+
+
+
+.myp{
+    color: green  !important;
+   
+}
+
+
+/* Get element by attribute  */
+
+/* 
+input[type="password"]{
+background-color: red;
+
+    
+} */
+
+
+/* a[href="https://www.google.com"]{
+
+    color: red;
+} */
+
+
+
+
+
+
+

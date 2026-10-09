@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Isometra&display=swap');
+
+
+/* .cls{
+    color: color-mix(in srgb, yellow 50%, red 50% );
+    background-color: rgb(100,20,50);   
+    width: 100px;
+    height: 20px;
+} */
+
+/* body{
+    background-color: rgb(45, 44, 44);
+    color: white;
+    background-image: url(../image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+} */
+
+/* .profile{
+    width: 740px;
+    height: 576px;
+    background-image: url(../image.png);
+    margin: 0 auto;
+} */
+
+/* @media (min-width:400px) and (max-width:1000px) {
+    .cls{
+      background-color: green;
+    }
+} */
+
+ /*
+ 
+ Css Colors and backgrounds 
+ 
+
+ colors : name 
+
+ rgb() red green blue 0 255 
+ 
+ hex   ff0000  F00. ABCDEF
+
+
+ css dimensions 
+
+ width     px em pt rem cm
+ height
+
+
+
+
+
+
+ text and borders  
+ font-size
+ font-weight
+
+ */
+
+
+/* 
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    border: solid;
+} */
+
+.cls{
+    /* color: black; */
+
+    /* background-color: red; */
+    /* width: 300Px;
+    height: 60px; */
+    /* background-color: black; */
+    /* text-align: center; */
+    /* font-size: 50px; */
+    /* font-weight: bolder; */
+    /* font-family: "Isometra", serif;
+    font-weight: 400;
+    font-style: normal; */
+   /* font-style: oblique; */
+    /* text-decoration: overline; */
+    /* text-transform: capitalize; */
+color: white;
+text-align: center;
+font-size: 170px;
+font-family:"Isometra", serif; 
+
+text-shadow: 10px 1px 10px red , -10px 1px 10px blue , 1px  10px 10px yellow , 1px -10px 10px green  ;
+
+
+
+} 
+
+/* 
+a{
+    text-decoration: none;
+    color: red;
+    font-size: 20px;
+    margin-left: 10px;
+} */
+
+p{
+    /* width: 400px;
+    line-height: 25px;
+    text-align: center;
+    border: solid;
+    height: 300px;
+    overflow:auto; */
+    /* transition: 2s ease; */
+
+   
+    
+   
+}
+p:hover{
+
+transition: 2s ease;
+scale: 0.5;
+color: red;
+
+   
+}
+
+input{
+    width: 300px;
+    text-align: center;
+    color: red;
+    font-family:"Isometra", serif ;
+
+}
+
+
+input::placeholder{
+    color: green;
+    font-family:"Isometra", serif ;
+}
+
+
