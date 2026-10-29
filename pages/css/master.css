@@ -116,7 +116,7 @@ p{
     
    
 }
-p:hover{
+/* p:hover{
 
 transition: 2s ease;
 scale: 0.5;
@@ -124,6 +124,7 @@ color: red;
 
    
 }
+
 
 input{
     width: 300px;
@@ -137,6 +138,175 @@ input{
 input::placeholder{
     color: green;
     font-family:"Isometra", serif ;
+} */
+
+
+
+*{
+    /* margin: 0px;
+    padding: 0px; */
 }
 
 
+/* body{
+
+ cursor: url("../zoro.png") , auto;
+
+
+} */
+
+
+.cls2{
+
+
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    /* margin-left:3100px ; */
+    margin-top: 100px;
+    padding-left: 10px;
+}
+
+
+
+
+
+button{
+    padding: 10px;
+    border: solid 2px black;
+    border-radius: 10px;
+    background-color: rgb(157, 23, 23);
+    color: white;
+    font-family: cursive;
+    font-weight: bold;
+    cursor: pointer;
+    margin:100px 0px ;
+
+    transition: .4s;
+
+}
+
+
+button:hover{
+    background-color: red;
+        box-shadow: 1px 1px 10px black;
+        /* font-size: 20px; */
+}
+
+
+/* body{
+
+    background: conic-gradient(from 210deg, #c5bbb8 0.000deg, #c5bbb8 24.000deg, #b8b5b8 calc(24.000deg + 0.1deg), #b8b5b8 48.000deg, #a9afb7 calc(48.000deg + 0.1deg), #a9afb7 72.000deg, #9aa8b5 calc(72.000deg + 0.1deg), #9aa8b5 96.000deg, #8ba1b3 calc(96.000deg + 0.1deg), #8ba1b3 120.000deg, #7d98af calc(120.000deg + 0.1deg), #7d98af 144.000deg, #7090ab calc(144.000deg + 0.1deg), #7090ab 168.000deg, #6587a6 calc(168.000deg + 0.1deg), #6587a6 192.000deg, #5c7ea1 calc(192.000deg + 0.1deg), #5c7ea1 216.000deg, #55759b calc(216.000deg + 0.1deg), #55759b 240.000deg, #516c94 calc(240.000deg + 0.1deg), #516c94 264.000deg, #4f638d calc(264.000deg + 0.1deg), #4f638d 288.000deg, #505a85 calc(288.000deg + 0.1deg), #505a85 312.000deg, #54537d calc(312.000deg + 0.1deg), #54537d 336.000deg, #5b4b74 calc(336.000deg + 0.1deg) 360.000deg);
+
+} */
+
+/* .madiv{
+
+height: 500px;
+border: solid;
+background-image:  linear-gradient(to right, red 10%, yellow 40%, blue 100%);
+
+
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+img{
+    filter: grayscale(100%);
+    transition: 2s;
+
+
+
+}
+
+
+img:hover{
+    filter: grayscale(0%);
+     transform: rotate3D(50deg 180deg);
+
+} */
+
+
+
+
+
+/* .madiv{
+    height: 100px;
+    /* border-style: double;
+    border-color: red;
+    border-width: 10px; */
+    /* border: solid 2px red; */
+    /* border-radius: 100px; */
+/* }  */
+
+
+
+/* table{
+    border-collapse: collapse;
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+td{
+    border: solid 2px teal;
+    padding: 10px;
+} */
+
+
+
+
+/* 
+Margin auto :
+
+top
+left
+right
+bottom
+
+*/
+
+
+
+
+.profile{
+
+
+    width: 100px;
+    height: 60px ;
+    background-color: red;
+  margin: 0px auto;
+    
+}
+
+
+
+
+
+
+
+
+
+ul{
+    list-style:none;
+    /* list-style-image: url("../zoro.png") */
+}
